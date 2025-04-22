@@ -1,5 +1,5 @@
 ---
-
+title: Home
 ---
 
 # Welcome to the Lego Pollution Department !
