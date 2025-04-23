@@ -44,11 +44,11 @@ Coral reefs cover less than 1% of the ocean, yet they provide habitat for over 4
 
 We have created a lego kit that educates whilst playing. We have reused lego within our school to create a learning kit. The aim of our product is to educate others on the health of our coral reef. Alongside our building instructions we have facts about coral reef, to educate people about them and give advice on how to help this ever-growing issue.
 
-![Coral Lego build box](https://github.com/user-attachments/assets/0df66e87-d5e4-4195-8e3b-429ab70a0901)
-*Coral Lego build box*
-![The LPD Lego build](https://github.com/user-attachments/assets/e893aef1-4fee-4322-a5d6-34b1a231ebbd)
-*The LPD Lego build*
-![An example of one of the 3 parts of the set](https://github.com/user-attachments/assets/2dbd6ba1-ac1b-41f7-8b25-600936f4db08)
-*An example of one of the 3 parts of the set*
-![The build instrctions](https://github.com/user-attachments/assets/30c6dca3-8a20-475b-805c-b5d572f0de18)
-*The build instrctions*
+![Coral Lego build box](https://github.com/user-attachments/assets/0df66e87-d5e4-4195-8e3b-429ab70a0901) \
+*Coral Lego build box* \
+![The LPD Lego build](https://github.com/user-attachments/assets/e893aef1-4fee-4322-a5d6-34b1a231ebbd) \
+*The LPD Lego build* \
+![An example of one of the 3 parts of the set](https://github.com/user-attachments/assets/2dbd6ba1-ac1b-41f7-8b25-600936f4db08) \
+*An example of one of the 3 parts of the set* \
+![The build instrctions](https://github.com/user-attachments/assets/30c6dca3-8a20-475b-805c-b5d572f0de18) \
+*The build instrctions* \
