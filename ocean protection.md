@@ -11,3 +11,6 @@ title: Ocean Protection
 - Conserve water. The less water you use, the less runoff and wastewater that eventually find their ways back into the ocean.
 - Minimize use of fertilizers. The overuse of fertilizers on lawns harm water quality because nutrients (nitrogen and phosphorus) from the fertilizer are washed into waterways and eventually end up in oceans.
 - Spread the word!  Learn more about coral reefs and educate your community. Share what you learnt on this site and educate others.
+
+  
+![Protect the Ocean](https://th.bing.com/th/id/OIP.6ag4VBXkziCEcN2LEF2ZvQHaE8?w=269&h=180&c=7&r=0&o=5&pid=1.7)
