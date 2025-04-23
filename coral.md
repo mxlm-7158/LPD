@@ -50,5 +50,5 @@ We have created a lego kit that educates whilst playing. We have reused lego wit
 *The LPD Lego build* \
 ![An example of one of the 3 parts of the set](https://github.com/user-attachments/assets/2dbd6ba1-ac1b-41f7-8b25-600936f4db08) \
 *An example of one of the 3 parts of the set* \
-![The build instrctions](https://github.com/user-attachments/assets/30c6dca3-8a20-475b-805c-b5d572f0de18) \
-*The build instrctions* \
+![The build instructions](https://github.com/user-attachments/assets/30c6dca3-8a20-475b-805c-b5d572f0de18) \
+*The build instructions* 
