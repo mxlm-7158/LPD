@@ -17,10 +17,10 @@ title: Coral
 
 # Types of coral
 
-Fringing reefs grow near the shore. They are quite thin but are often miles long.  
-Barrier reefs are heavily populated near where the sea floor drops sharply.  
-Platform reefs are wider at their tops and are often found further away from the coast.  
-Atolls are circular reefs with a lagoon in the center, and are often found near island in the Pacific ocean.  
+1. Fringing reefs grow near the shore. They are quite thin but are often miles long.  
+2. Barrier reefs are heavily populated near where the sea floor drops sharply.  
+3. Platform reefs are wider at their tops and are often found further away from the coast.  
+4. Atolls are circular reefs with a lagoon in the center, and are often found near island in the Pacific ocean.  
 
 ![An atoll in the Pacific Ocean](https://th.bing.com/th/id/OIP.vQeS-4iVtCUgKsOvZC1HVAHaE8?w=290&h=193&c=7&r=0&o=5&pid=1.7) 
 *Atafu Atoll, Tokelau, Southern Pacific Ocean*
