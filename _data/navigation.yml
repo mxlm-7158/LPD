@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /index/
+
+  - title: "Coral"
+    url: /coral/
+
+  - title: "Ocean Protection"
+    url: /ocean protection/
