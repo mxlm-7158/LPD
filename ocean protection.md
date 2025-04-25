@@ -10,6 +10,7 @@ title: Ocean Protection
 - Choose sustainable seafood.
 - Conserve water. The less water you use, the less runoff and wastewater that eventually find their ways back into the ocean.
 - Minimize use of fertilizers. The overuse of fertilizers on lawns harm water quality because nutrients (nitrogen and phosphorus) from the fertilizer are washed into waterways and eventually end up in oceans.
+- Be conscious when buying aquarium fish.  Avoid purchasing living coral and if you buy a marine aquarium fish, make sure that it has been collected in a sustainable manner.
 - Spread the word!  Learn more about coral reefs and educate your community. Share what you learnt on this site and educate others.
 
   
