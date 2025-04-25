@@ -8,5 +8,5 @@ title: Home
 
 The Lego Pollution Department (LPD) is an organisation that is passionate about protecting and restoring coral in the world's numerous coral reeves. 
 
-![Coral Lego build box](https://github.com/user-attachments/assets/0df66e87-d5e4-4195-8e3b-429ab70a0901) \
-*Coral Lego build box*
+![LPD Logo](https://becbd-my.sharepoint.com/:i:/r/personal/oak230101_beckfootoakbank_org/Documents/Pictures/year%208/stuff/Capture.PNG?csf=1&web=1&e=yFWEom) \
+*LPD Logo*
