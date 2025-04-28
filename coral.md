@@ -8,7 +8,7 @@ title: Coral
 - An individual coral is called a polyp.
 - There is evidence of coral reefs being in existence for more than 240 million years! And if you visit a coral reef today, it may be up to 10,000 years old.
 - Coral needs sunlight to grow. It is rare to see coral reefs deeper than 75 yards.
-- Coral is technically an animal.
+- Coral is an animal.
 - Coral is related to both jellyfish and anemones.
 - Over half of cancer drug research today relies on coral reefs. These marine species are highly intricate and scientists believe there is a wealth of medical knowledge hiding in these reefs.
 - Charles Darwin theorized that all species choose to live near their food. However, coral thrives in areas with currents, which makes the water devoid of nutrients. This confused him and is known as Darwin's Paradox.
