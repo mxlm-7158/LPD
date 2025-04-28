@@ -23,7 +23,7 @@ title: Shop
 [Eco-friendly soap](https://www.faithinnature.co.uk/collections/hand-wash/products/grapefruit-orange-hand-wash-5l) \
 ![Soap](https://www.faithinnature.co.uk/cdn/shop/files/Grapefruit-Orange-Hand-Wash-5L-Refill_a3897ec3-3ea4-4bcb-90af-90c7670dcc2c.png?v=1718367123) \
 [Reef-friendly soap](https://www.reefrepair.com/shop/skin-care/reef-safe-soap-90g/) \
-![Soap]() \
+![Soap](reeffriendlysoap.png) \
 [Coral-safe tanning oil](https://www.walmart.com/ip/Coral-Safe-Tanning-Oil-All-Natural-Waterproof-and-Reef-Safe-8-fl-oz/854454591) 
 
 ## Coral food
