@@ -1,4 +1,9 @@
-# Shop
+---
+title: Shop
+---
+
+
+# Coral-friendly Shop
 
 ## Coral Friendly Decor:  
 
