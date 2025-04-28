@@ -14,5 +14,3 @@
 ![Suncream](https://static.independent.co.uk/2024/06/28/17/Pai-best-ecofriendly-suncream-SPF-indybest.png) \
 [Suncream](https://www.amazon.com/dp/B07RXS4FQM?tag=travelandleisure-onsite-prod-20&ascsubtag=5545746%7Cn7ca2ca7607d341e289653bd10464a17614%7C%7C1745849182689%7C%7C) \
 ![Suncream](https://m.media-amazon.com/images/I/51JmuWWLzoL._SX522_.jpg) \
-
-## Coral Jewellery
